@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <OutDir>./</OutDir>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+    <AssemblyName>DeepFishAI</AssemblyName>
+    <RootNamespace>DeepFishAI</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BunnyLoader">
+      <HintPath>../BunnyLoader.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

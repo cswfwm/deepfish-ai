@@ -1,0 +1,14 @@
+{
+  "uid": "30f64ff9-2224-4d9e-bc86-0a6b8916d720",
+  "id": "DeepFishAI",
+  "name": "Deep Fish AI",
+  "version": "0.1.0",
+  "authors": [{ "name": "AiCode" }],
+  "category": "Utilidade",
+  "summary": "DeepSeek-powered companion: streams game state, runs in-game scripts, shows its thinking in a speech bubble.",
+  "license": "MIT",
+  "updated": "2026-11-14",
+  "blVersion": 3,
+  "dependencies": [],
+  "links": []
+}
